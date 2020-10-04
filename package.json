@@ -1,0 +1,16 @@
+{
+  "name": "blog",
+  "version": "0.0.0",
+  "description": "yuulye's blog with nodejs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon -e ejs,js,css,mjs,json index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
